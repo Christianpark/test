@@ -14,3 +14,8 @@ getting-started:
   name: getting-started
   description: False
   cover: False
+  chris:
+    name: chris
+    description: False
+    cover: False
+    
