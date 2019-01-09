@@ -9,8 +9,8 @@ url: https://christianpark.github.io
 baseurl: /
 
 # Website info
-title: Ghost
-description: The professional publishing platform
+title: Chris Blog
+description: 일상을 기술로 만드는 세상
 cover: assets/built/images/blog-cover.jpg
 logo: assets/built/images/blog-icon.png
 logo_dark: assets/built/images/favicon.png
